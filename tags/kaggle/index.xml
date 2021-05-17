@@ -14,8 +14,7 @@
       
       <guid>https://hshamilsamsudeen.github.io/Portfolio/post/project-8/</guid>
       <description>This project was a submission in the learning from disaster Kaggle competition.
-Logistic Regression analysis predicted whether a passenger would survive based on the data available, the final models prediction accuracy was 77%.
-This project required more time spent on data cleaning and analysis. Key learnings from this project were methods of handling missing data, inference from statistical analysis and an introduction to Support Vector Regression analysis.
+Logistic Regression analysis was used to predict whether a passenger would survive based on data such as their ticket fare, port of embarkation, number of siblings or parents onboard etc. the final models prediction accuracy was 77%.
 Project Files - GitHub Repository link</description>
     </item>
     
