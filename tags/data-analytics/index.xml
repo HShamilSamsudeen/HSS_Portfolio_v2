@@ -28,6 +28,30 @@ The data used for this study was from the KSI (Killed or Seriously Injured) data
     </item>
     
     <item>
+      <title>Kaggle competition - Learning from disaster</title>
+      <link>https://hshamilsamsudeen.github.io/Portfolio/post/project-8/</link>
+      <pubDate>Sat, 20 Mar 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://hshamilsamsudeen.github.io/Portfolio/post/project-8/</guid>
+      <description>This project was a submission in the learning from disaster Kaggle competition.
+Logistic Regression analysis predicted whether a passenger would survive based on the data available, the final models prediction accuracy was 77%.
+This project required more time spent on data cleaning and analysis. Key learnings from this project were methods of handling missing data, inference from statistical analysis and an introduction to Support Vector Regression analysis.
+Project Files - GitHub Repository link</description>
+    </item>
+    
+    <item>
+      <title>Business Startup Analytics - Canadian children&#39;s retail market</title>
+      <link>https://hshamilsamsudeen.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Sat, 26 Dec 2020 12:00:00 -0500</pubDate>
+      
+      <guid>https://hshamilsamsudeen.github.io/Portfolio/post/project-1/</guid>
+      <description>This project uses the Canadian Census data for the year 2016, which was published by Statistics Canada. In order to understand the children’s retail market, with a mission of helping set up new store locations for businesses.
+This analysis would help businesses understand it’s potential consumers in age groups below 20, population distributions for this demography, purchasing power, and potential market growth opportunities.
+The key business questions were;
+ Selecting the top locations for setting up new childrens retail stores.</description>
+    </item>
+    
+    <item>
       <title>Association Analysis - Catalog Cross Selling</title>
       <link>https://hshamilsamsudeen.github.io/Portfolio/post/project-6/</link>
       <pubDate>Fri, 25 Dec 2020 12:00:00 -0500</pubDate>
@@ -35,18 +59,6 @@ The data used for this study was from the KSI (Killed or Seriously Injured) data
       <guid>https://hshamilsamsudeen.github.io/Portfolio/post/project-6/</guid>
       <description>This group project required performing an association analysis to develop rules and collaborative filtering. The group acted as a team of analysts for an hypothetical organisation. The team presented the final results in order to help the hypothetical business make an informed decision on which catalog to promote in a direct-mail marketing campaign focused on cross-selling.
 Project Files - GitHub Repository link</description>
-    </item>
-    
-    <item>
-      <title>Canadian Children&#39;s Retail Market Analysis</title>
-      <link>https://hshamilsamsudeen.github.io/Portfolio/post/project-1/</link>
-      <pubDate>Fri, 25 Dec 2020 12:00:00 -0500</pubDate>
-      
-      <guid>https://hshamilsamsudeen.github.io/Portfolio/post/project-1/</guid>
-      <description>This project uses the Canadian Census data for the year 2016, which was published by Statistics Canada. In order to understand the children’s retail market, with a mission of helping set up new store locations for businesses.
-This analysis would help businesses understand it’s potential consumers in age groups below 20, population distributions for this demography, purchasing power, and potential market growth opportunities.
-The key business questions were;
- Selecting the top locations for setting up new childrens retail stores.</description>
     </item>
     
   </channel>

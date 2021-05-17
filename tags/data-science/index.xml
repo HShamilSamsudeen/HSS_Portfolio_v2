@@ -28,6 +28,18 @@ The data used for this study was from the KSI (Killed or Seriously Injured) data
     </item>
     
     <item>
+      <title>Kaggle competition - Learning from disaster</title>
+      <link>https://hshamilsamsudeen.github.io/Portfolio/post/project-8/</link>
+      <pubDate>Sat, 20 Mar 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://hshamilsamsudeen.github.io/Portfolio/post/project-8/</guid>
+      <description>This project was a submission in the learning from disaster Kaggle competition.
+Logistic Regression analysis predicted whether a passenger would survive based on the data available, the final models prediction accuracy was 77%.
+This project required more time spent on data cleaning and analysis. Key learnings from this project were methods of handling missing data, inference from statistical analysis and an introduction to Support Vector Regression analysis.
+Project Files - GitHub Repository link</description>
+    </item>
+    
+    <item>
       <title>Association Analysis - Catalog Cross Selling</title>
       <link>https://hshamilsamsudeen.github.io/Portfolio/post/project-6/</link>
       <pubDate>Fri, 25 Dec 2020 12:00:00 -0500</pubDate>

@@ -62,17 +62,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hshamilsamsudeen.github.io/Portfolio/post/project-6/</loc>
-    <lastmod>2020-12-25T12:00:00-05:00</lastmod>
+    <loc>https://hshamilsamsudeen.github.io/Portfolio/tags/kaggle/</loc>
+    <lastmod>2021-03-20T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hshamilsamsudeen.github.io/Portfolio/post/project-8/</loc>
+    <lastmod>2021-03-20T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://hshamilsamsudeen.github.io/Portfolio/post/project-1/</loc>
-    <lastmod>2020-12-25T12:00:00-05:00</lastmod>
+    <lastmod>2020-12-26T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://hshamilsamsudeen.github.io/Portfolio/tags/sql/</loc>
+    <lastmod>2020-12-26T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hshamilsamsudeen.github.io/Portfolio/post/project-6/</loc>
     <lastmod>2020-12-25T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
