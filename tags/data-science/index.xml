@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on H. Shamil Samsudeen</title>
+    <link>https://hshamilsamsudeen.github.io/Portfolio/tags/data-science/</link>
+    <description>Recent content in Data Science on H. Shamil Samsudeen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Apr 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://hshamilsamsudeen.github.io/Portfolio/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fiera Real Estate: Predictive Modeling for Canadian Real Estate</title>
+      <link>https://hshamilsamsudeen.github.io/Portfolio/post/project-5/</link>
+      <pubDate>Fri, 23 Apr 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://hshamilsamsudeen.github.io/Portfolio/post/project-5/</guid>
+      <description>This was a Capstone Project which used census data, CBRE data and Python to program a model that can be repeatedly used to help with data backed decision making for real estate investments which aims to minimize the risk associated with high value asset investment.
+The regression model developed is able to predict vacancy rates for geographical locations using 6 major variables. These final variables include Total Available Inventory, Availability Rate, Average Asking Sale Price $/sq.</description>
+    </item>
+    
+    <item>
+      <title>Safe Roads Competition 2021</title>
+      <link>https://hshamilsamsudeen.github.io/Portfolio/post/project-7/</link>
+      <pubDate>Sun, 21 Mar 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://hshamilsamsudeen.github.io/Portfolio/post/project-7/</guid>
+      <description>This project was a submission in the Safe Roads Competition 2021 hosted by SAS, Geotab and the Toronto Police Services. The objective of this project was to investigate factors that contributes to vehicle collisions with cyclists, and the impact of drivingbehavior and compliance with traffic regulations oncyclist safety.
+The data used for this study was from the KSI (Killed or Seriously Injured) dataset provided by the Toronto Police services and additional data from the Geotab Ignition hazardous areas and road impediments dataset were used.</description>
+    </item>
+    
+    <item>
+      <title>Association Analysis - Catalog Cross Selling</title>
+      <link>https://hshamilsamsudeen.github.io/Portfolio/post/project-6/</link>
+      <pubDate>Fri, 25 Dec 2020 12:00:00 -0500</pubDate>
+      
+      <guid>https://hshamilsamsudeen.github.io/Portfolio/post/project-6/</guid>
+      <description>This group project required performing an association analysis to develop rules and collaborative filtering. The group acted as a team of analysts for an hypothetical organisation. The team presented the final results in order to help the hypothetical business make an informed decision on which catalog to promote in a direct-mail marketing campaign focused on cross-selling.
+Project Files - GitHub Repository link</description>
+    </item>
+    
+  </channel>
+</rss>
